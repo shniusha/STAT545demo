@@ -1,2 +1,4 @@
 # STAT545demo
-Demo for in class
+Just a demo for in class
+
+This is a random sentence.
