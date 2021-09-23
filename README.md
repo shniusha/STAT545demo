@@ -19,3 +19,4 @@ second word
 
 Conflict 2 conflict 1
 
+New line to the readme
