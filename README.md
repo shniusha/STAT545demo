@@ -15,3 +15,5 @@ Making more changes. Doing no analysis at all.
 word
 
 second word
+
+Conflict 2
